@@ -1,4 +1,4 @@
-import Ball from " ./ball.js";
+import Ball from "./ball.js";
 import Racket from "./racket.js";
 import { createLvls } from "./Lvl.js";
 import { loadAssets } from "./assets.js";
